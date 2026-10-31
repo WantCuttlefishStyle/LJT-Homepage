@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/HKUNLP), supervised by [Prof. Junxian He](https://jxhe.github.io/). I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Prof. Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 Research interests
 ======
@@ -35,7 +35,7 @@ Publications
 * **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023), co-author.
 * **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023), co-author.
 
-See the [publications page](/publications/) for more details.
+See the [publications page]({{ site.baseurl }}/publications/) for more details.
 
 Skills
 ======
